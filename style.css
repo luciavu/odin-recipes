@@ -3,13 +3,8 @@
     font-size: 15px;
     overflow-x: hidden;
     margin: 0;
+    color:black;
 }
-
-.inter-medium {
-    font-weight: 500;
-    font-size: 20px;
-    color: black;
-  }
 
 header {
     width: 100%;
@@ -21,6 +16,8 @@ header {
 
 header p {
     margin: 30px;
+    font-size: 25px;
+    font-weight: 500;
 }
 
 .recipes {
@@ -33,7 +30,8 @@ header p {
 .recipes a {
     text-align: center;
     padding: 20px;
-
+    text-decoration: none;
+    font-weight: 600;
 }
 
 .recipe-img {
