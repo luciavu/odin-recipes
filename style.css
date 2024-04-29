@@ -2,6 +2,7 @@
     font-family: "Inter", sans-serif;
     font-size: 15px;
     overflow-x: hidden;
+    margin: 0;
 }
 
 .inter-medium {
@@ -22,3 +23,21 @@ header p {
     margin: 30px;
 }
 
+.recipes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.recipes a {
+    text-align: center;
+    padding: 20px;
+
+}
+
+.recipe-img {
+    width: auto;
+    object-fit: cover;
+    border-radius: 5px 5px 0 0;
+}
