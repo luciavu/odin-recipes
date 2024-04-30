@@ -1,0 +1,11 @@
+* {
+    font-family: "Inter";
+}
+
+body {
+    padding: 30px;
+}
+.recipe-name {
+    font-size: 35px;
+    font-weight: 600;
+}
