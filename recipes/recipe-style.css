@@ -25,6 +25,6 @@ ol > li::marker {
 }
 
 .steps li {
-    width: 60%;
+    width: 80%;
     padding-bottom: 30px;
 }
