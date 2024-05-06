@@ -1,5 +1,7 @@
 # Odin Recipes
-Odin Project Foundations Course - A basic recipe website using HTML + CSS.
+The Odin Project - Foundations Course Project 1:
+
+ Developing a basic recipe website using HTML/CSS.
 
 ## Links
 Live Demo: https://luciavu.github.io/odin-recipes/index.html
